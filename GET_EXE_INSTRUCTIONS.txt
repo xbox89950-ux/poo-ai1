@@ -1,0 +1,37 @@
+# How to Get Your Poo AI EXE
+
+## Method 1: GitHub Actions (Recommended - FREE)
+
+### Step 1: Upload to GitHub
+1. Go to https://github.com/new
+2. Repository name: `poo-ai-assistant`
+3. Click "Create repository"
+4. Upload all files from this folder
+5. Click "Commit changes"
+
+### Step 2: Build EXE
+1. Go to your GitHub repo
+2. Click "Actions" tab
+3. Click "Build Poo AI Windows EXE" on the left
+4. Click "Run workflow" → "Run workflow"
+5. Wait 5-10 minutes
+
+### Step 3: Download
+1. After build completes, click the latest run
+2. Scroll down to "Artifacts"
+3. Download "PooAI-Release-ZIP"
+4. Extract and run PooAI.exe!
+
+---
+
+## Method 2: Build on Your PC
+
+If GitHub doesn't work, install Python from python.org (check "Add to PATH"),
+then run: build.bat
+
+---
+
+## Direct Download Link (If I build for you)
+
+I can also build it and upload to a file sharing service.
+Tell me if you want this option!
